@@ -1,110 +1,147 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+## # 🧩 VISÃO DO DIA A DIA
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Como é o trabalho de um(a) **Product Manager**:
 
-</p>
+- Conversar com usuários e stakeholders para entender necessidades reais  
+- Priorizar funcionalidades e organizar o backlog  
+- Criar e comunicar visão de produto  
+- Trabalhar com times de tecnologia, design e negócios  
+- Acompanhar métricas e resultados para orientar decisões  
+- Facilitar reuniões, alinhamentos e rituais ágeis  
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+---
 
-<br/>
-<br/>
+# 🧠 MAPA DE SKILLS
 
-## 💻 Sobre o Projeto
+## CORE SKILLS (essenciais):
+- Product Discovery (pesquisa, entrevistas, validação)  
+- Product Delivery (priorização, backlog, roadmap)  
+- Comunicação e liderança colaborativa  
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+## NICE-TO-HAVE (complementares):
+- Noções de UX/UI  
+- Métricas e análise de dados  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## FERRAMENTAS E TECNOLOGIAS:
+- Jira ou Trello  
+- Figma  
+- Notion  
+- Ferramentas de IA (ChatGPT, Copilot, Midjourney, etc.)  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+# 📅 ROADMAP DE 90 DIAS  
+**ADAPTADO PARA: 6 horas/semana**
 
-- _Exemplo_:
+---
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+## MÊS 1 – FUNDAMENTOS
 
-- [Outros pré-requisitos, se aplicável]
+### SEMANA 1-2:
+- Entender o papel do PM e diferenças para PO  
+- Estudar ciclo de vida de produto e metodologias ágeis  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+### SEMANA 3-4:
+- Aprender técnicas de discovery: entrevistas, mapa de empatia, JTBD  
+- Praticar escrita de user stories e critérios de aceitação  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## MÊS 2 – PRÁTICA
 
-  - [Subhabilidades relacionadas, se aplicável]
+### SEMANA 5-6:
+- Criar um backlog fictício e priorizar usando RICE ou MoSCoW  
+- Estudar métricas: North Star, AARRR, KPIs  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+### SEMANA 7-8:
+- Aprender noções de UX e prototipar no Figma  
+- Usar IA para apoiar discovery, análise e documentação  
 
-## 🎯 Objetivos e Resultados Esperados
+---
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+## MÊS 3 – PORTFÓLIO E PREPARAÇÃO
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+### SEMANA 9-10:
+- Construir seu projeto de portfólio (ver abaixo)  
+- Criar roadmap de 6 meses para o produto fictício  
 
-<!--START_SECTION:footer-->
+### SEMANA 11-12:
+- Preparar storytelling do projeto  
+- Treinar entrevistas comportamentais e de produto  
 
-<br />
-<br />
+---
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+# 🚀 PROJETO DE PORTFÓLIO
+
+## PROJETO: Plataforma de IA para melhorar a produtividade de equipes
+
+### O QUE FAZER:
+Criar um case completo de PM para um produto fictício que usa IA para automatizar tarefas repetitivas e melhorar a comunicação interna.
+
+### ENTREGÁVEIS:
+- Documento de discovery (problema, personas, insights)  
+- Backlog priorizado com user stories  
+- Protótipo simples no Figma  
+- Roadmap de 6 meses  
+
+### CRITÉRIOS DE ACEITAÇÃO:
+- Problema claramente definido com base em entrevistas  
+- Priorização justificada com método escolhido  
+- Protótipo navegável com fluxo principal  
+- Roadmap coerente com estratégia  
+
+### DICA:
+Use IA para acelerar tudo: gerar hipóteses, estruturar entrevistas, criar user stories e até protótipos iniciais.
+
+---
+
+# 💬 ROTEIRO DE ENTREVISTAS
+
+## PERGUNTA 1: O que faz um Product Manager?  
+**COMO RESPONDER:**  
+PM conecta necessidades do usuário, objetivos do negócio e capacidade técnica, priorizando o que gera mais valor.
+
+---
+
+## PERGUNTA 2: Como você prioriza funcionalidades?  
+**COMO RESPONDER:**  
+Cite métodos como RICE ou MoSCoW e explique que a escolha depende do contexto e das métricas do produto.
+
+---
+
+## PERGUNTA 3: Conte sobre um problema que você resolveu.  
+**COMO RESPONDER:**  
+Use o método STAR (Situação, Tarefa, Ação, Resultado) e conecte com seu projeto de portfólio.
+
+---
+
+## PERGUNTA 4: Como você lida com conflitos entre áreas?  
+**COMO RESPONDER:**  
+Mostre foco em comunicação, alinhamento de expectativas e priorização baseada em dados.
+
+---
+
+## PERGUNTA 5: Como você usa IA no seu trabalho?  
+**COMO RESPONDER:**  
+Explique como IA ajuda em discovery, análise, documentação, prototipação e tomada de decisão.
+
+---
+
+# 🎓 TRILHA DIO RECOMENDADA
+
+## TRILHA: **Product Manager com IA – DIO**
+
+### POR QUE ESSA TRILHA:
+Combina fundamentos de produto com uso prático de IA — ideal para crescer na função atual e se destacar.
+
+### PRÓXIMOS PASSOS:
+1. Acesse dio.me  
+2. Busque por **"Product Manager com IA"**  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ **Seu plano está pronto!**  
+Lembre-se: constância vence intensidade. Comece pela Semana 1 e avance no seu ritmo.
+
